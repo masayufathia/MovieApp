@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_activity_bottom_nav">bottom_nav</string>
+    <string name="title_list">List</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="dashboard">This is dashboard</string>
+    <string name="favorite">This is favorite</string>
+
+    <string name="goftg_dur">2 hours 2 minutes</string>
+    <string name="endgame_dur">3 hours 2 minutes</string>
+    <string name="giver_dur">1 hour 40 minutes</string>
+    <string name="otshours_dur">1 hour 35 minutes</string>
+</resources>
